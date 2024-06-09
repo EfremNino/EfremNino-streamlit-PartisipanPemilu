@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==2.0.2
+streamlit
+scikit-learn
+matplotlib
+tensorflow
+pip==24.0
